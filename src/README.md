@@ -3,9 +3,7 @@
 
 A Java Swing-based desktop application developed using **NetBeans IDE** for managing library operations like adding books, registering students, issuing and returning books. Backend is powered by **MySQL**.
 
----
-
-## 📌 Features
+### 📌 Features
 
 - Add New Books 📘
 - Register Students 🧑‍🎓
@@ -13,9 +11,7 @@ A Java Swing-based desktop application developed using **NetBeans IDE** for mana
 - Java Swing GUI using NetBeans `.form` files
 - MySQL Database Integration via JDBC
 
----
-
-## 🛠 Technologies Used
+### 🛠 Technologies Used
 
 - Java (JDK 8+)
 - Swing (GUI)
@@ -23,9 +19,7 @@ A Java Swing-based desktop application developed using **NetBeans IDE** for mana
 - MySQL
 - JDBC
 
----
-
-## 📁 Folder Structure
+### 📁 Folder Structure
 
 ```
 ├── AddBook.java
@@ -39,9 +33,6 @@ A Java Swing-based desktop application developed using **NetBeans IDE** for mana
 ├── L1.form / L1.java
 ├── L2.form / L2.java
 ```
-
----
-
 ## 🚀 How to Run
 
 ### Clone this repository:
@@ -49,9 +40,9 @@ A Java Swing-based desktop application developed using **NetBeans IDE** for mana
 git clone https://github.com/your-username/library-management-system.git
 ```
 
-### Open it in NetBeans IDE.
+# Open it in NetBeans IDE.
 
-### Import the SQL schema into your MySQL.
+# Import the SQL schema into your MySQL.
 
 ### Update the database password in `Connect.java`.
 
