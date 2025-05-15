@@ -1,6 +1,6 @@
 # 📚 LibraryManagementSystem-Java-Swing
 
-This project is a simple **Library Management System** built using **Java**, **Swing GUI (NetBeans)**, and **MySQL**. It allows you to manage books, students, book issues, and returns efficiently through a desktop application.
+This project is a simple **Library Management System** built using **Java**, **Swing GUI (NetBeans)**, and **MySQL**. It allows you to manage books, students, book issues, and returns efficiently through a desktop applicationS.
 
 ---
 
