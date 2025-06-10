@@ -9,5 +9,5 @@ package java.util;
  * @author babus
  */
 public class JOptionPlane {
-    
+    //
 }
